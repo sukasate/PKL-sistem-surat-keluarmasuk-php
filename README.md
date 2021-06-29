@@ -18,3 +18,9 @@ Sistem Pengarsipan Surat Keluar Masuk Berbasis Web - PKL
 # Login super admin :
 - username = rianadi
 - password = rian2007
+# Login admin :
+- username = nuzul
+- password = nuzul
+# Login user biasa :
+- username = rizky
+- password = rizky
